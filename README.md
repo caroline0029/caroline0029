@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caroline0029
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning biostatistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hemengsh@usc.edu
 
 <!---
